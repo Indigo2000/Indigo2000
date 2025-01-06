@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Indigo2000
-- 👀 I’m studying for the MSc in Computer Science at the University of York as a way to get back into the IT sector. I'm currently a Maths teacher!
-- 🌱 I used C/C++ in my previous roles before going into teaching but have covered Java, Python, Big Data, Cyber Security and AI (amongst others) on the course
-- 💞️ I’m looking to collaborate on projects that will get me back into work in the IT sector.
-- 📫 Do get in touch.
+- 👀 I’ve completed my MSc in Computer Science at the University of York (awaiting final result). I'm currently looking for a developer role and have experience with
+- 🌱 I used Python, Java and C/C++ with additional exposure to Big Data, Cyber Security and AI (amongst others) on the MSc course
+- 💞️ Do get in touch for collaboration on relevant projects. 
 
 <!---
 Indigo2000/Indigo2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
