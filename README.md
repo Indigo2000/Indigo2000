@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Indigo2000
-- 👀 I’ve completed my MSc in Computer Science at the University of York (awaiting final result). I'm currently looking for a developer role and have experience with
-- 🌱 I used Python, Java and C/C++ with additional exposure to Big Data, Cyber Security and AI (amongst others) on the MSc course
+- 👀 I’ve completed my MSc in Computer Science at the University of York (awaiting final result). I'm currently looking for a developer role and have experience with Python, Java and C/C++ with additional exposure to Big Data, Cyber Security and AI (amongst others) on the MSc course
 - 💞️ Do get in touch for collaboration on relevant projects. 
 
 <!---
